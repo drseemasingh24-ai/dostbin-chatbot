@@ -1,0 +1,58 @@
+{
+  "kb_version": "2.0.0",
+  "generated_utc": "2025-12-24T00:00:00.000000+00:00",
+  "generator": {
+    "name": "Dostbin KB - Clean Version",
+    "commit_or_build_id": "v2.0.0"
+  },
+  "collections": {
+    "products": [
+      {
+        "id": "AUTHORITATIVE-PRODUCT-INFO-001",
+        "name": "DOSTBIN OFFICIAL PRODUCT INFORMATION (LATEST - USE THIS FOR ALL QUERIES)",
+        "category": "Product Information",
+        "subtype": "official",
+        "description": "IMPORTANT: This is the official and most up-to-date product information. Use this for all pricing, variants, delivery, and capacity queries.\n\n=== DOSTBIN VARIANTS AND PRICING (LATEST) ===\n\n1. DOSTBIN BASIC - ₹19,999 (inclusive of GST)\n   - Manual compost machine\n   - Capacity: Up to 5 Kg/day\n   - Simple, eco-friendly composting\n   - Manual operation\n\n2. DOSTBIN POPULAR - ₹24,999 (inclusive of GST)\n   - Semi-automatic compost machine\n   - Capacity: Up to 5 Kg/day\n   - Comes with manual operations with a dual handle\n   - Great for hassle-free composting\n\n3. DOSTBIN PREMIUM - ₹34,999 (inclusive of GST)\n   - Fully automatic compost machine\n   - Capacity: Up to 5 Kg/day\n   - Comes with advance feature like automatic control with electronic and motorized operations\n   - Shred and digest buttons for easy operation\n\n=== DELIVERY INFORMATION ===\n- Delivery Time: 20-25 business days across PAN India\n- Free delivery included in price\n\n=== WASTE CAPACITY ===\n- All variants (Basic, Popular, Premium): Up to 5 Kg/day\n\n=== WHAT CAN BE COMPOSTED ===\nCAN be composted: Vegetable and fruit peels, garden waste, coffee/tea grounds, leftover food, dal/sambar (remove liquid content), eggshells, paper products\nCANNOT be composted: Dairy, fatty oil/gravy, meat, bones, hard items like mango seed and coconut shell, plastic, metals\n\nFor more information on composting, watch these videos:\n- https://www.youtube.com/watch?v=b7jsXoghslQ (Composting basics)\n- https://www.youtube.com/shorts/yJSMnd9g2yo (Quick guide)",
+        "raw_text": "DOSTBIN OFFICIAL PRODUCT INFORMATION - LATEST PRICING AND DETAILS",
+        "features": [
+          "Manual operation",
+          "Semi-automatic with dual handle",
+          "Fully automatic with electronic control",
+          "Up to 5 Kg/day capacity",
+          "20-25 business days delivery"
+        ],
+        "tags": [
+          "pricing",
+          "variants",
+          "delivery",
+          "capacity",
+          "basic",
+          "popular",
+          "premium",
+          "official"
+        ],
+        "example_questions": [
+          "What are the prices?",
+          "Tell me about variants",
+          "How much does Dostbin cost?",
+          "Delivery time?",
+          "How much waste can be composted?",
+          "What can be composted?"
+        ],
+        "source_url": "https://dostbin.com",
+        "source_type": "official",
+        "crawl_dt_utc": "2025-11-27T00:00:00.000000+00:00",
+        "last_verified_utc": "2025-11-27T00:00:00.000000+00:00",
+        "content_version": "2.0",
+        "checksum_sha256": "updated-2025-11-27",
+        "chunks": [
+          {
+            "chunk_id": "chunk_1",
+            "text": "DOSTBIN OFFICIAL PRODUCT INFORMATION - LATEST. DOSTBIN BASIC: ₹19,999 (inclusive of GST), manual compost machine, up to 5 Kg/day capacity. DOSTBIN POPULAR: ₹24,999 (inclusive of GST), semi-automatic with manual operations with a dual handle, up to 5 Kg/day capacity. DOSTBIN PREMIUM: ₹34,999 (inclusive of GST), fully automatic with advance feature like automatic control with electronic and motorized operations, up to 5 Kg/day capacity. DELIVERY: 20-25 business days across PAN India, free delivery included. COMPOSTING INFO: Watch https://www.youtube.com/watch?v=b7jsXoghslQ and https://www.youtube.com/shorts/yJSMnd9g2yo for guides.",
+            "token_count": 180
+          }
+        ]
+      }
+    ]
+  }
+}
