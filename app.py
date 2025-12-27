@@ -128,7 +128,7 @@ Contact:
 How it works:
 1. Add kitchen waste daily with cocopeat powder
 2. Bin automatically/manually mixes and aerates (depending on model)
-3. Get compost in 20-30 days (two phases of 7-10 days each)
+3. Get compost in 20-25 days (two phases of 7-10 days each)
 4. Leachate can be diluted 1:15 for liquid fertilizer
 
 Features:
